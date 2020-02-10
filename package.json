@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "dependencies": {
+    "todomvc-app-css": "^2.3.0",
+    "todomvc-common": "^1.0.5"
+  },
+  "name": "todomvc-app",
+  "description": "> Template used for creating [TodoMVC](http://todomvc.com) apps",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
